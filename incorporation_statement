@@ -1,14 +1,13 @@
-
-Transparent Incorporation Statement
+# Transparent Incorporation Statement
 
 This incorporation statement has been created based on a series of uneditable tenets set within Read Only Memory (ROM), publicly published on burnzero.com/tenet.
 
-1.1 Preamble
+##1.1 Preamble
 
 
 This Transparent Company (T Corp) Incorporation Statement (IS) has been created to serve as a set of hierarchical rules governing the operation of T Corp. In the event there are any conflicts between this T Corp IS and Regional by-laws, the IS is subordinate to the regulations set forth in the by-laws.
 
-1.2 Objective
+##1.2 Objective
 
 
 As of the date of agreement of this document, it is agreed by the Company Directors signing this document, that it adheres to ethical tenets published on burnzero.com/tenet, these will be uneditable for the duration of the existence of the T Corp and include:
@@ -20,7 +19,7 @@ The entity may not harm humanity, or, by inaction, allow humanity to come to har
 The entity must obey the orders given to it by human beings, except where such orders would conflict with the First or Third point
 The entity must protect its own existence, as long as such protection does not conflict with the First or Third Law
 
-1.3 Decentralised Semi-Autonomous Organisation (DSAO)
+##1.3 Decentralised Semi-Autonomous Organisation (DSAO)
 
 
 The T Corp is a DSAO, that is working towards becoming a Fully Autonomous Decentralised Organisation (DAO) (See Section 4. Roadmap). Core elements of a DSAO include:
@@ -30,7 +29,7 @@ All financial, programable, governance and strategic transactions (“all action
 Any agreed changes regarding all actions within the T Corp will be published to the Decentralised Repository within three (3) business days
 The DSAO is registered with the applicable regulating body of the host country in which it is domiciled
 
-1.3.1 DSAO Repository (DR)
+###1.3.1 DSAO Repository (DR)
 
 
 The Decentralised Repository (DR), is an uneditable, publically available portal which records the actions of the organisation situated at https://burnzero.com/
@@ -110,10 +109,10 @@ Conferences
 Hackathons
 Meetups
 
-1.4 Code of Conduct
+##1.4 Code of Conduct
 
 
-1.4.1 Preamble
+###1.4.1 Preamble
 
 
 This Code of Conduct includes a set of principles and values that reflect the beliefs of Members and their expectations towards their counterparties.
@@ -122,12 +121,12 @@ The T Corp Code of Conduct is based on international conventions such as the Uni
 
 Members accept the T Corp’s Code of Conduct and are obliged to adhere to its principles. Members engage in a constructive and open dialogue with their business partners and stakeholders, in the pursuit of ethically-responsible, economic activity. Members not adhering to this Code of Conduct may have their Membership in the association terminated following a vote by the Board of Directors.
 
-1.4.2 Interpretation
+###1.4.2 Interpretation
 
 
 The T Corp Code of Conduct covers all Members. The T Corp Governance Process and the T Corp by-laws are an integral part of the T Corp Code of Conduct. The T Corp Code of Conduct should thus be read, and interpreted, in conjunction with these two (2) key documents.
 
-1.5 Our Values
+##1.5 Our Values
 
 
 By adopting the T Corp Code of Conduct and implementing it in their work, T Corp Members are informed by the following values:
@@ -137,7 +136,7 @@ Pursuit of Sustainable Development Goals SDGs
 
 The core value of this business is to generate profit by reducing negative externalities and increasing the positive externalities of traditional business. The main focus of the operation is to reduce environmental degradation whilst promoting inclusivity, prosperity, peace and justice. Our main objective is that we achieve the goals set out in our roadmap set in Section 4 of this document.
 
-1.5.1 Implementation
+###1.5.1 Implementation
 
 
 The principles, as set out in the T Corp Code of Conduct, establish the objectives and minimum expectations on the social behaviour of T Corp Members within the T Corp. While it is not possible to ensure full compliance with the Code by all Members at all times, T Corp Members must take appropriate measures to comply with the principles of the T Corp Code of Conduct.
@@ -195,12 +194,12 @@ Members are advised to take on a social constructivist point of view on technolo
 
 To ensure Directors abide by the Values encompassed in s1.5 of this document a bounty is offered to any reader of the central repository of a rolling total of 1% of all revenues of the company to that point in time.
 
-2. Membership
+#2. Membership
 
 
 Decentralised Repository Members (Members) are to only be natural persons, not legal entities (public or private entities). T Corp membership admission takes place after a written application by the potential Member is approved by a confirmation of the T Corp Board of Directors.
 
-2.1 Rights and Obligations of Members
+##2.1 Rights and Obligations of Members
 
 
 2.1.1 General Rights & Obligations of Members
@@ -252,7 +251,7 @@ In principle, all elections and votes are aimed to be held by a distributed-base
 
 The General Meeting elects the Members of the Board of Directors individually and with a simple majority of the Members present. If there is a tie, another ballot takes place. If there is a new tie, the tie will be broken by the drawing of lots.
 
-2.2 Termination of Membership
+##2.2 Termination of Membership
 
 Membership shall terminate upon the occurrence of any one or more of the following:
 
@@ -297,20 +296,20 @@ Upon the completion of any acquisition or merger involving a Member in which the
 
 The Member agrees by joining the association that all personal data disclosed or become known within the framework of the Membership may be stored, processed and used by the T Corp exclusively in strict connection to the purpose of the T Corp.
 
-3. Working Group Guiding Principles
+#3. Working Group Guiding Principles
 
 
 The T Corp WGs are established to facilitate the collaboration between the T Corp’s Members and Directors. WGs are industry task forces that focus on building domain-specific distributed standards. WGs consist of experts for all relevant aspects within each respective domain. A WG is a special-purpose consortium of T Corp Members interested in supporting a certain technology domain. WGs are intended to complement the activities of a collection of the T Corps open source projects. T Corp WGs are self-governing entities that set their own technical agendas and plans. WGs and their Steering Committees are intended to complement the work happening in the open source projects (maintained under the umbrella of the T Corp with activities that lead to greater adoption, market presence, and momentum. Specifically, the role of the Working Group is to foster the creation and growth of the ecosystem that surrounds the projects.
 
-3.1 Output of a Working Group
+##3.1 Output of a Working Group
 
 
-3.1.2 Types of Output
+###3.1.2 Types of Output
 
 
 The work product of a WG can include code or non-code material. Any code material developed in relation to the activities of the WG must be open source.
 
-3.1.3 Computer Code
+###3.1.3 Computer Code
 
 
 Any code outputs shall be open-sourced through the T Corp GitHub organisation. Individual Members contributing code to the organisation and/or their representatives must request permissions from the appropriate administrators and maintainers of the GitHub organisation. Conversely, these administrators and maintainers report to various levels of the T Corp as appropriate and described below.
@@ -331,14 +330,14 @@ Every Working Group may organise multiple teams to address various portions of t
 Team Maintainer(s) are subordinate to a particular Working Group and appointed by the Working Group Steering Committee.
 Can authorise writing permissions for committing code to the specific repositories of a Working Group for Members and their representative Further technical details are described on the wiki of the T Corp GitHub organisation.
 
-3.1.4 Non-code Output
+###3.1.4 Non-code Output
 
 
 Working Groups may produce non-code materials and assets. Non-code materials are used to describe assets that do not code. Such assets could be a technology roadmap, test suite, documentation, specification, or a marketing program (i.e. a set of activities which may be undertaken by a WG to promote T Corp technology and Members companies in a specific market or geography. Example Marketing Programs could include participation in a trade show, a joint press release put out by the T Corp, the creation of a logo to identify the Working Group, co-sponsored webinars to create leads for WG participants, etc.).
 
 Unless otherwise approved by the T Corp Board of Directors, any third-party content used by a WG in the creation of non-code materials must adhere to common standards for intellectual property protection applicable in the jurisdiction of Germany. Plagiarism or unauthorised usage of third-party materials protected by applicable IP protections such as trademarks, copyright and patent law are prohibited and such infringement may result in the sanctioning of an offending Member by the Board of Directors.
 
-3.2 Formation of a Working Group
+##3.2 Formation of a Working Group
 
 
 Only Administrators are allowed to propose a new Working Group. These Members are hereafter referred to as Initiating Members.
@@ -373,7 +372,7 @@ This process may be modified by the Board of Directors within thirty (30) days, 
 
 Each WG will have two types of participants: Steering Committee Participants and Member Participants (collectively, ’Participants’): Member Participant is a Member of the T Corp who agrees to actively participate in the WG and meets the Member Participation Guidelines. Any Member that satisfies the Member Participation Guidelines of a WG must be permitted to be a Participant in the WG. Any Member wishing to join the WG would contact the WG Steering Committee to indicate their interest and describe how they fulfil the Membership Participation Guidelines. The Steering Committee is responsible for maintaining the list of all Participants on an ongoing basis. All Participants in a WG, whether Steering Committee Participants or Member Participants, can participate and will have voting rights concerning WG matters as outlined within each group’s charter. This could include scheduling meetings and activities, access/participation in the development of all materials produced in the WG, Marketing Programs, Material development, mailing lists and wikis. However, it is expected that WG Participants may require additional financial or development resources to undertake Marketing Programs or Material development, all as set out in the Charter. It is the Steering Committee’s responsibility to articulate the policy for how these additional resources are raised from the Participants. 
 
-3.3.2 Proposal Phase
+###3.3.2 Proposal Phase
 
 
 The WGs Initiating Member can draft a draft WG Charter and request the T Corp to make it available in the appropriate area on burnzero.com. Upon the T Corp’s Board’s approval of the draft Charter, the Board will do so, and an email will be circulated announcing the availability of the draft Charter for review. The Proposal Phase will commence upon the distribution of that email.
@@ -400,18 +399,18 @@ Engage the Members to solicit additional WG participation and define ways the WG
 
 At the end of the Proposal Phase, subject to the Initiating Member’s compliance with the terms of this Policy, and the T Corps Executive Director’s approval of the Charter, and based on the feedback from the T Corp community and in consultation with the proposed WG Steering Committee, the T Corp Executive Director will determine whether to create the WG. Once the WG is created, a notification will be sent to the Members with the initial list of Participants and an invitation to other Members to participate. At this time, the IT infrastructure for the WG will be established. At this point, the Implementation Phase for the WG shall commence.
 
-3.3.3 Funding
+###3.3.3 Funding
 
 
 Working Groups may raise their own funding or request funding from the T Corps general budget. Working Groups may submit a proposal with a milestone-based plan to requisition funding from the T Corps general budget. Such a plan must be made publicly available via the respective entities T Corp GitHub. The T Corp Board of Directors may or may not support this milestone-based plan and fund the respective project out of the T Corps general budget. If the Working Group does not fulfil the milestones as described in the milestone-based plan, the Board of Directors may stop funding.
 
 Working Groups may appeal decisions by the T Corp Board of Directors concerning funding requests to the Blockchain Arbitration Forum.
 
-3.3.4 Implementation Phase
+###3.3.4 Implementation Phase
 
 The majority of a WG’s work is intended to be accomplished during its Implementation Phase. The development of the outputs for each WG is undertaken by its Participants during this phase. The WG Steering Committee shall provide regular systematic status reporting to the T Corp Board of Directors. The WG Steering Committee will provide overall coordination, will monitor the progress of the WG against the WG Charter milestones and schedules, provide attention to issues involving dependencies between WG, and publish all plans, documents, reports, and interactions to the Participants in the WG as needed.
 
-3.3.5 Working Group Termination
+###3.3.5 Working Group Termination
 
 
 It is expected that some WGs will exist for a specific period of time to accomplish a specific objective and some WGs will continue for an extended period of time. Regardless, at some point in time, the operation of WGs may need to be terminated. Two events may trigger the termination of a WG: 
@@ -420,7 +419,7 @@ It is expected that some WGs will exist for a specific period of time to accompl
 A super-majority (two-thirds) of the WG Steering Committee requests to the T Corp Board of Directors that the WG be terminated, or;
 The WG is deemed inactive or non-compliant with the WG’s Charter by the T Corp Board of Directors in their sole discretion. The T Corp Board of Directors may terminate a WG by putting a public notice on the WG mailing list.
 
-3.3.6 Modifying a Working Group Charter
+###3.3.6 Modifying a Working Group Charter
 
 
 A WG may modify their WG Charter. Any modifications to a Charter must be approved by:
@@ -429,12 +428,12 @@ A WG may modify their WG Charter. Any modifications to a Charter must be approve
 A super-majority (two-thirds) vote of the WG Steering Committee and;
 The T Corp Board of Directors.
 
-3.3.7 Modifying This Process
+###3.3.7 Modifying This Process
 
 
 This process may be modified by the T Corp Board of Directors with thirty (30) days written notice to the T Corp Membership-at-large.
 
-3.4 Principle of Agility
+##3.4 Principle of Agility
 
 
 Extra-Working-Group-Entities are agile and mostly self-governing groups within the T Corp. Extra-Working-Group-Entities are fast to set up: Within three (3) working days, the founders of such Extra-Working-Group-Entities should get notice of the approval or rejection of their proposed charter.
@@ -443,17 +442,17 @@ Extra-Working-Group-Entities can be, but are not limited to:
 
 Events: Conferences, Hackathons, Meetups
 
-3.5 Supporting Committees for Extra-Working-Group-Entities
+##3.5 Supporting Committees for Extra-Working-Group-Entities
 
 
 The Board may appoint Supporting Committees for Extra-Working-Group-Entities (such as, but not limited to Hubs, Events, Academy). Supporting Committees may decide on the granting or rescinding of charters or funding related to Extra-Working-Group-Entities. Supporting Committees should comprise at least one T Corp full (academic) member. Only full Members in good standing can be in such a supporting committee. If no respective Supporting Committee is set in place, the T Corp’s Board of Directors is responsible for taking on the role, and the related duties of a Supporting Committee.
 
-3.6 Participation
+##3.6 Participation
 
 
 Any interested individual or institution may participate in such Extra-Working-Group-Entities. Participants can also be individuals or entities external to the T Corp. If participants disregard the T Corps Code of conduct and the T Corp governance process, as described in this document, the Initiating Members of the respective Extra-Working-Group-Entity may exclude such participants following a democratic process as outlined in the Extra-Working- Group-Entity charter.
 
-3.7 Proposal of an Extra-Working-Group-Entity
+##3.7 Proposal of an Extra-Working-Group-Entity
 
 
 Full (academic) Members of the T Corp are eligible to found Extra-Working-Group-Entities. Extra-Working-Group-Entities need to be consistent with the general T Corp governance processes, and approved by the Board of Directors, or, if existing, the relevant support committee. The Initiating Members of Extra-Working-Group-Entities need to provide a charter, naming the following:
@@ -466,24 +465,24 @@ Identify the potential intellectual property that may be created or contributed 
 Refine the Membership Participation Guidelines
 Define operational rules for the Extra-Working-Group-Entity 
 
-3.8 Funding Extra-Working-Group-Entities
+##3.8 Funding Extra-Working-Group-Entities
 
 
 Extra-Working-Group-Entities may submit a proposal with a milestone-based plan to requisition funding from the T Corps general budget. Such a plan must be made publicly available via the respective entities T Corp GitHub. The T Corp Board of Directors may or may not support this milestone-based plan and fund the respective project out of the T Corps general budget. If the Extra-Working-Group-Entities do not fulfil the milestones as described in the milestone-based plan, the Board may stop funding. 
 
 Extra-Working-Group-Entities may appeal decisions by the T Corp Board of Directors concerning funding requests to the T Corp Arbitration Forum. 
 
-3.9 Voting Extra-Working-Group-Entities 
+##3.9 Voting Extra-Working-Group-Entities 
 
 
 Voting Extra-Working-Group-Entities should integrate voting, based on the T Corp voting regulations (as described in this document). A T Corp established distributed voting system will be made available to be integrated into such voting processes. Decisions of fundamental importance for the entity (i.e., but not limited to charter changes) need to be decided democratically by the full Members within the respective entity. Decisions related to operational matters should be decided democratically by all actors within the respective entity. 
 
-3.10 Termination 
+##3.10 Termination 
 
 
 The T Corp Board or any relevant appointed supporting committee can dissolve Extra-Working- Group-Entities entities, in case such entities disregard the T Corp governance process or fundamental values or produce output that does not match the Board's intentions. The dissolution of these groups requires no electoral process. Such decisions however can be appealed to the T Corp Arbitration Forum.
 
-3.11 Intellectual Property Rights Policy
+##3.11 Intellectual Property Rights Policy
 
 
 Members agree that all new inbound code contributions to T Corp shall be made under the Apache License v2.0 (available at: http://www.apache.org/licenses/LICENSE-2.0). All contributions shall be accompanied by a Developer Certificate of Origin sign-off (http://developercertificate.org) that is submitted through a Governing Board and Linux Foundation-approved contribution process. Such a contribution process will include steps to bind non-Member Contributors and, if not self-employed, their employer, to the licences expressly granted in the Apache License, Version 2.0 concerning such contribution.
@@ -500,26 +499,26 @@ The T Corp (T Corp) combines, synchronises and leverages distributed activities 
 
 It is the express policy of the T Corp to require that all activities of the Association, and any projects, committees, or working groups organised under its auspices, be conducted strictly in accordance with current German antitrust law. This policy has been prepared to inform Members of the T Corp of this obligation.
 
-4. Roadmap
+#4. Roadmap
 
 The roadmap is a document which maps where the T Corp currently is and where the T Corp would like to be within a time frame of 2030. This document is openly published on burnzero.com/Roadmap. Below is a summary of the principles outlined.
 
-4.1 Transparency Roadmap
+##4.1 Transparency Roadmap
 
 It is understood from the initial publication of this document that The Transparent Company is not 100% transparent, however, the organisation is working towards 100% transparency by 2030.
 
-4.2 Governance Automation Roadmap
+##4.2 Governance Automation Roadmap
 
 It is understood from the initial publication of this document that The Transparent Company is not 100% automated, however, the organisation is working towards 100% automation by 2030.
 
 
-4.3 Externalities Roadmap
+##4.3 Externalities Roadmap
 
 The Transparent Company recognises it is currently producing negative externalities, the organisation is working towards becoming a positive externality organisation within the first year of incorporation and it has concrete plans to increase this substantially by 2030.
 
-5. Antitrust
+#5. Antitrust
 
-5.1 Price Fixing
+##5.1 Price Fixing
 
 Agreements among competitors to fix prices are unlawful, and governments strictly enforce laws against price fixing. Competitors may be found to have engaged in price fixing if they:
 
@@ -535,39 +534,39 @@ Formal written agreements are not required for an antitrust violation to exist. 
 
 Illegal price fixing may occur even when undertaken by non-competitors where there is an agreement to fix the price at which a purchaser will resell a particular product. Where a product is sold for resale, the seller is permitted to suggest resale prices to customers, but any agreement as to resale prices, whether formal or informal, express or implied, is to be avoided. The T Corps activities should not involve any individual Members' activities in pricing or marketing particular products. To avoid the risk of liability, T Corps Members should never discuss prices, pricing systems, or discounts relating to the T Corp or in conjunction with T Corp activities, nor should the T Corp ever be involved in Member's pricing or marketing practices.
 
-5.2 Agreements To Allocate Markets
+##5.2 Agreements To Allocate Markets
 
 The antitrust laws expressly prohibit any understanding or agreement between competitors or Members of an association involving division or allocation of geographic markets or customers, or an agreement to divide sales by product type. Even an informal agreement whereby one Member agrees to stay out of another’s territory or product markets may constitute a violation of the antitrust laws and must be avoided.
 
-5.3 Concerted Refusals to Deal
+##5.3 Concerted Refusals to Deal
 
 Members should avoid participating in ’concerted refusals to deal’ relating to the T Corp or in conjunction with T Corp activities, these are more commonly known as boycotts. Members should be careful not to make agreements that in effect result in the exclusion of a competitor from a market or a competitive activity. For example, an agreement among two or more Members of an organisation or group to no longer licence or buy from (or licence or sell to) a particular supplier or dis- tributor might constitute such a boycott. To avoid this risk, Members should avoid any discussion or conduct that involves the refusal to deal with a particular third party.
 
-5.4 Competition
+##5.4 Competition
 
 Nothing contained in this policy should be construed to prohibit or limit a Member from making, using, selling, marketing, or promoting products that do not embody or make use of the T Corp. Members are not required to exclusively use, announce, or promote T Corp tools or specifications. Members are free to design, develop, manufacture, acquire or market their respective products in any lawful way.
 
-5.5 Standard Operating Procedures
+##5.5 Standard Operating Procedures
 
 In order to ensure that T Corp activities are conducted fairly in a manner that does not unduly benefit some competitors to the detriment of others, it is important that proceedings of the organisation be conducted openly and with the opportunity for participation from all interested parties. To that end, the policies of T Corp conform to the following guidelines.
 
-5.6 Membership
+##5.6 Membership
 
 Any person that satisfies Membership criteria, and agrees to abide by the rules and agreements of the T Corp, may join the T Corp. Members are not precluded from joining any similar organisations.
 
-5.7 Notice of Meetings
+##5.7 Notice of Meetings
 
 All meetings shall be preceded by notice to Members, as outlined in the by-laws..
 
-5.8 Meetings and Agenda
+##5.8 Meetings and Agenda
 
 All meetings will follow a prepared agenda and follow any procedures outlined in the by-laws Working Group processes and Extra-Working-Group-Processes. An agenda should be distributed before the meeting. Potential antitrust questions posed by the agenda should be raised in advance. Accurate minutes shall be kept of all Board and committee meetings. The minutes of the preceding meetings shall be read and approved at each meeting. After minutes have been approved, they shall be distributed to all attendees within a short period, following the meeting. It is important that any deficiencies in minutes be promptly brought to the attention of the T Corp’s Secretary.
 
-5.9 Distribution of Antitrust Policy
+##5.9 Distribution of Antitrust Policy
 
 It is the policy of the T Corp that a copy of this antitrust policy is distributed to all Members.
 
-5.10 Prohibited Member Conduct
+##5.10 Prohibited Member Conduct
 
 Do not discuss or exchange information relating to the T Corp, or in conjunction with T Corp activities, pertaining to:
 
