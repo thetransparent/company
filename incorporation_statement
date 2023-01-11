@@ -3,9 +3,11 @@
 This incorporation statement has been created based on a series of read only tenets, publicly published here on on https://github.com/thetransparent/company/.
 
 ##1.1 Preamble
+
 This Transparent Company (T Corp) Incorporation Statement (IS) has been created to serve as a set of hierarchical rules governing the operation of T Corp. In the event there are any conflicts between this T Corp IS and Regional by-laws, the IS is subordinate to the regulations set forth in the by-laws.
 
 ##1.2 Objective
+
 As of the date of agreement of this document, it is agreed by the Company Directors signing this document, that it adheres to ethical tenets published on burnzero.com/tenet, these will be uneditable for the duration of the existence of the T Corp and include:
 The primary purpose of the entity is beneficence and the entity may actualise this via externality minimisation 
 All action performed by the corporation must be processed through a system that is based on real-time transparency, in the form of a series of non-editable disclosures 
@@ -18,7 +20,6 @@ The entity must protect its own existence, as long as such protection does not c
 
 The T Corp is a DSAO, that is working towards becoming a Fully Autonomous Decentralised Organisation (DAO) (See Section 4. Roadmap). Core elements of a DSAO include:
 
-
 All financial, programable, governance and strategic transactions (“all actions”) are logged in real-time and maintained on a radically transparent, publicly readable, decentralised repository
 Any agreed changes regarding all actions within the T Corp will be published to the Decentralised Repository within three (3) business days
 The DSAO is registered with the applicable regulating body of the host country in which it is domiciled
@@ -30,7 +31,6 @@ The Decentralised Repository (DR), is an uneditable, publically available portal
 
 1.3.1.1 DR Users (DRU)
 
-
 A user who reads the Decentralised Repository but does not apply for membership. This type of user includes anyone who navigates to the BurnZero home page https://burnzero.com/.
 
 1.3.1.1.1 Decentralised Repository Members (Members)
@@ -39,14 +39,10 @@ A user who reads the Decentralised Repository but does not apply for membership.
 Members are DRU, who have privileges inside of the DSAO Repository. These privileges are granted by the Administrators (a full hierarchy can be seen in Figure 1. below).
 
 
-
-
 Figure 1. Hierarchy of Decentralised Repository Users
 
 
-
 1.3.1.1.1.1 Decentralised Repository Administrators
-
 
 The singular peak administrative account of the DR is open to be accessed by all Directors of the company. On the primary DR, https://burnzero.com/ this account is termed WikiSysOps. New Directors are restricted to the pool of Counter_administrator Members (See section 1.3.1.1.1.2). Once suggested by administrators for inclusion, a quorum with unanimous agreement is required to grant new applicants access.
 
