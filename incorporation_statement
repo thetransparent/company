@@ -1,6 +1,6 @@
 # Transparent Incorporation Statement
 
-This incorporation statement has been created based on a series of read only tenets, publicly published here on on https://github.com/thetransparent/company/.
+This incorporation statement has been created based on a series of read only tenets, publicly published here on https://github.com/thetransparent/company/.
 
 ##1.1 Preamble
 
@@ -8,28 +8,28 @@ This Transparent Company (T Corp) Incorporation Statement (IS) has been created 
 
 ##1.2 Objective
 
-As of the date of agreement of this document, it is agreed by the Company Directors signing this document, that it adheres to ethical tenets published on burnzero.com/tenet, these will be uneditable for the duration of the existence of the T Corp and include:
-The primary purpose of the entity is beneficence and the entity may actualise this via externality minimisation 
-All action performed by the corporation must be processed through a system that is based on real-time transparency, in the form of a series of non-editable disclosures 
-The entity may not harm humanity, or, by inaction, allow humanity to come to harm
-The entity must obey the orders given to it by human beings, except where such orders would conflict with the First or Third point
-The entity must protect its own existence, as long as such protection does not conflict with the First or Third Law
+As of the date of agreement of this document, it is agreed by the Company Directors signing this document, that it adheres to hierarchical ethical tenets published on https://github.com/thetransparent/company/, these will be uneditable for the duration of the existence of the T Corp, a summary of which includes:
+Transparency - The workings of the organisation are 100% transparent. All generated data is to be automatically openly published in a real-time, decentralised, uneditable format.
+Beneficence - The organisation shall do good for the planet and strive to be a negative externality sink. At a minimum, 30% of all revenues will enter a public pool for dissemination via the open proposal/commissioning system.
+Non-maleficence - The entity may not harm humanity, or, by inaction, allow humanity to come to harm.
+Autonomation - The entity should only pursue activities which are fully or as near to autonomous as possible.
+Self-preservation - The entity must protect its own existence as long as such protection does not conflict with the Second or Third Law. If calculated negative externalities exceed positive externalities, the company must stop operation.
 
-##1.3 Decentralised Semi-Autonomous Organisation (DSAO)
+##1.3 Roadmap to Autonomy
 
-The T Corp is a DSAO, that is working towards becoming a Fully Autonomous Decentralised Organisation (DAO) (See Section 4. Roadmap). Core elements of a DSAO include:
+The T Corp is a Decentralised Semi-Autonomous Orgnisation DSAO, that is working towards becoming a Fully Autonomous Decentralised Organisation (DAO) (See Section 4. Roadmap). Core elements of a DSAO include:
 
-All financial, programable, governance and strategic transactions (“all actions”) are logged in real-time and maintained on a radically transparent, publicly readable, decentralised repository
+All financial, programable, governance and strategic transactions (“all actions”) are logged in real-time and maintained on a transparent, publicly readable, decentralised repository (https://thetransparent.company/)
 Any agreed changes regarding all actions within the T Corp will be published to the Decentralised Repository within three (3) business days
 The DSAO is registered with the applicable regulating body of the host country in which it is domiciled
 
 ###1.3.1 DSAO Repository (DR)
 
-The Decentralised Repository (DR), is an uneditable, publically available portal which records the actions of the organisation situated at https://burnzero.com/
+The Decentralised Repository (DR), is an uneditable, publically available portal which records the actions of the organisation situated at https://thetransparent.company/
 
 1.3.1.1 DR Users (DRU)
 
-A user who reads the Decentralised Repository but does not apply for membership. This type of user includes anyone who navigates to the BurnZero home page https://burnzero.com/.
+A user who reads the Decentralised Repository but does not apply for membership. This type of user includes anyone who navigates to The Transparent Company home page (https://thetransparent.company/).
 
 1.3.1.1.1 Decentralised Repository Members (Members)
 
@@ -40,7 +40,7 @@ Figure 1. Hierarchy of Decentralised Repository Users
 
 1.3.1.1.1.1 Decentralised Repository Administrators
 
-The singular peak administrative account of the DR is open to be accessed by all Directors of the company. On the primary DR, https://burnzero.com/ this account is termed WikiSysOps. New Directors are restricted to the pool of Counter_administrator Members (See section 1.3.1.1.1.2). Once suggested by administrators for inclusion, a quorum with unanimous agreement is required to grant new applicants access.
+The singular peak administrative account of the DR is open to be accessed by all Directors of the company. On the primary DR, https://thetransparent.company/ this account is termed WikiSysOps. New Directors are restricted to the pool of Counter_administrator Members (See section 1.3.1.1.1.2). Once suggested by administrators for inclusion, a quorum with unanimous agreement is required to grant new applicants access.
 
 The Board represents the T Corp to the outside world and decides on the principles of the work of the organisation. The Board is elected by General Meeting for a term of two (2) years. The Board, as elected at the founding meeting, is as such, elected for a term of two (2) years.
 
@@ -58,7 +58,7 @@ The T Corp Board of Directors may amend the T Corp IS as laid out by this docume
 
 1.3.1.1.1.2 Counter-Administrators
 
-A Counter-Administrator is a type of user in https://burnzero.com/ that has requested an account via  https://burnzero.com/Special:RequestAccount; and has been included within the DRU Membership by unanimous agreement of a quorum of Administrators.
+A Counter-Administrator is a type of user of https://thetransparent.company/ that has been included within the DRU Membership by unanimous agreement of a quorum of Administrators.
 
 1.3.1.1.1.2.1 Subversion Requirements
 
@@ -93,7 +93,7 @@ Meetups
 
 This Code of Conduct includes a set of principles and values that reflect the beliefs of Members and their expectations towards their counterparties.
 
-The T Corp Code of Conduct is based on international conventions such as the Universal Declaration of Human Rights; the Guiding Principles on Children and Entrepreneurship; the United Nations Guiding Principles on Business and Human Rights; the OECD Guidelines; and the UN Global Compact (Sustainable Development Goals) bound within the overarching Tenets published via https://burnzero.com/tenet.
+The T Corp Code of Conduct is based on international conventions such as the Universal Declaration of Human Rights; the Guiding Principles on Children and Entrepreneurship; the United Nations Guiding Principles on Business and Human Rights; the OECD Guidelines; and the UN Global Compact (Sustainable Development Goals) bound within the overarching Tenets published via https://github.com/thetransparent/company/.
 
 Members accept the T Corp’s Code of Conduct and are obliged to adhere to its principles. Members engage in a constructive and open dialogue with their business partners and stakeholders, in the pursuit of ethically-responsible, economic activity. Members not adhering to this Code of Conduct may have their Membership in the association terminated following a vote by the Board of Directors.
 
@@ -171,7 +171,7 @@ All T Corp Members agree to abide by the rules, as set forth by the T Corp Code 
 
 2.1.2 Proposal Permissions
 
-Members are permitted to propose (https://burnzero.com/Proposals) and receive commissions (https://burnzero.com/Commissions) from DSAO funds. 
+Members are permitted to propose and receive commissions from DSAO funds. 
 
 2.1.3 Compensation
 
@@ -318,7 +318,7 @@ Each WG will have two types of participants: Steering Committee Participants and
 
 ###3.3.2 Proposal Phase
 
-The WGs Initiating Member can draft a draft WG Charter and request the T Corp to make it available in the appropriate area on burnzero.com. Upon the T Corp’s Board’s approval of the draft Charter, the Board will do so, and an email will be circulated announcing the availability of the draft Charter for review. The Proposal Phase will commence upon the distribution of that email.
+The WGs Initiating Member can draft a draft WG Charter and request the T Corp to make it available in the appropriate area on https://github.com/thetransparent/company/. Upon the T Corp’s Board’s approval of the draft Charter, the Board will do so, and an email will be circulated announcing the availability of the draft Charter for review. The Proposal Phase will commence upon the distribution of that email.
 
 The Proposal Phase will last not more than thirty (30) days.
 
@@ -429,7 +429,7 @@ It is the express policy of the T Corp to require that all activities of the Ass
 
 #4. Roadmap
 
-The roadmap is a document which maps where the T Corp currently is and where the T Corp would like to be within a time frame of 2030. This document is openly published on burnzero.com/Roadmap. Below is a summary of the principles outlined.
+The roadmap is a document which maps where the T Corp currently is and where the T Corp would like to be within a time frame of 2030. This document is openly published on https://thetransparent.company/roadmap/. Below is a summary of the principles outlined.
 
 ##4.1 Transparency Roadmap
 
